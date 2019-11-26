@@ -226,7 +226,12 @@ credits = [
     '2012 the Dart project authors',
     'CC BY-SA',
     'https://creativecommons.org/licenses/by-sa/4.0/'
-  ], [
+    ], [
+    'date-fns',
+    '2019 Sasha Koss',
+    'MIT',
+    'https://raw.githubusercontent.com/date-fns/date-fns/master/LICENSE.md'
+], [
     'Django',
     'Django Software Foundation and individual contributors',
     'BSD',
