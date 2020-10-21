@@ -1,3 +1,5 @@
+:warning: Since March 2020, this project is unmaintained and is looking for a team of maintainers, see https://gitter.im/FreeCodeCamp/DevDocs for details.
+
 # [DevDocs](https://devdocs.io) — API Documentation Browser [![Build Status](https://travis-ci.org/freeCodeCamp/devdocs.svg?branch=master)](https://travis-ci.org/freeCodeCamp/devdocs)
 
 DevDocs combines multiple developer documentations in a clean and organized web UI with instant search, offline support, mobile version, dark theme, keyboard shortcuts, and more.
